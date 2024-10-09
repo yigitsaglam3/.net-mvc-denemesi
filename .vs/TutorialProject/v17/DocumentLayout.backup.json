@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lyigi\\source\\repos\\TutorialProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A37EC3C-A9BC-4F10-B41D-B5359A51BD14}|TutorialProject\\TutorialProject.csproj|c:\\users\\lyigi\\source\\repos\\tutorialproject\\tutorialproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A37EC3C-A9BC-4F10-B41D-B5359A51BD14}|TutorialProject\\TutorialProject.csproj|solutionrelative:tutorialproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A37EC3C-A9BC-4F10-B41D-B5359A51BD14}|TutorialProject\\TutorialProject.csproj|c:\\users\\lyigi\\source\\repos\\tutorialproject\\tutorialproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A37EC3C-A9BC-4F10-B41D-B5359A51BD14}|TutorialProject\\TutorialProject.csproj|solutionrelative:tutorialproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A37EC3C-A9BC-4F10-B41D-B5359A51BD14}|TutorialProject\\TutorialProject.csproj|c:\\users\\lyigi\\source\\repos\\tutorialproject\\tutorialproject\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A37EC3C-A9BC-4F10-B41D-B5359A51BD14}|TutorialProject\\TutorialProject.csproj|solutionrelative:tutorialproject\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A37EC3C-A9BC-4F10-B41D-B5359A51BD14}|TutorialProject\\TutorialProject.csproj|c:\\users\\lyigi\\source\\repos\\tutorialproject\\tutorialproject\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A37EC3C-A9BC-4F10-B41D-B5359A51BD14}|TutorialProject\\TutorialProject.csproj|solutionrelative:tutorialproject\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A37EC3C-A9BC-4F10-B41D-B5359A51BD14}|TutorialProject\\TutorialProject.csproj|c:\\users\\lyigi\\source\\repos\\tutorialproject\\tutorialproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A37EC3C-A9BC-4F10-B41D-B5359A51BD14}|TutorialProject\\TutorialProject.csproj|solutionrelative:tutorialproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A37EC3C-A9BC-4F10-B41D-B5359A51BD14}|TutorialProject\\TutorialProject.csproj|c:\\users\\lyigi\\source\\repos\\tutorialproject\\tutorialproject\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A37EC3C-A9BC-4F10-B41D-B5359A51BD14}|TutorialProject\\TutorialProject.csproj|solutionrelative:tutorialproject\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\lyigi\\source\\repos\\TutorialProject\\TutorialProject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "TutorialProject\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\lyigi\\source\\repos\\TutorialProject\\TutorialProject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "TutorialProject\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-09T20:31:33.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lyigi\\source\\repos\\TutorialProject\\TutorialProject\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "TutorialProject\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lyigi\\source\\repos\\TutorialProject\\TutorialProject\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "TutorialProject\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAACYAAAAAAAAAAAAcwEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-09T20:05:57.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\lyigi\\source\\repos\\TutorialProject\\TutorialProject\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "TutorialProject\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\lyigi\\source\\repos\\TutorialProject\\TutorialProject\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "TutorialProject\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T20:04:24.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\lyigi\\source\\repos\\TutorialProject\\TutorialProject\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "TutorialProject\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\lyigi\\source\\repos\\TutorialProject\\TutorialProject\\Models\\Product.cs",
+              "RelativeToolTip": "TutorialProject\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T20:02:17.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\lyigi\\source\\repos\\TutorialProject\\TutorialProject\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "TutorialProject\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\lyigi\\source\\repos\\TutorialProject\\TutorialProject\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "TutorialProject\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAuwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T20:07:09.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\lyigi\\source\\repos\\TutorialProject\\TutorialProject\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "TutorialProject\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\lyigi\\source\\repos\\TutorialProject\\TutorialProject\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "TutorialProject\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T20:05:19.508Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,5 +1,7 @@
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using System.Diagnostics;
+using TutorialProject.Data; // Veritaban? ba?lam? için
 using TutorialProject.Models;
 
 namespace TutorialProject.Controllers
@@ -7,15 +9,19 @@ namespace TutorialProject.Controllers
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
+        private readonly ApplicationDbContext _context; // Veritaban? ba?lam?
 
-        public HomeController(ILogger<HomeController> logger)
+        public HomeController(ILogger<HomeController> logger, ApplicationDbContext context)
         {
             _logger = logger;
+            _context = context;
         }
 
-        public IActionResult Index()
+        // Ana sayfada ürünleri göstermek için
+        public async Task<IActionResult> Index()
         {
-            return View();
+            var products = await _context.Products.ToListAsync(); // Veritaban?ndan ürünleri çekiyoruz
+            return View(products); // Ürünleri view'a gönderiyoruz
         }
 
         public IActionResult Privacy()

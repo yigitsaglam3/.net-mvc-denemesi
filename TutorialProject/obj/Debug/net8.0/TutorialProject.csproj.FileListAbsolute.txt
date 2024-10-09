@@ -442,3 +442,4 @@ C:\Users\lyigi\source\repos\TutorialProject\TutorialProject\bin\Debug\net8.0\run
 C:\Users\lyigi\source\repos\TutorialProject\TutorialProject\obj\Debug\net8.0\TutorialProject.csproj.AssemblyReference.cache
 C:\Users\lyigi\source\repos\TutorialProject\TutorialProject\obj\Debug\net8.0\TutorialProject.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\lyigi\source\repos\TutorialProject\TutorialProject\obj\Debug\net8.0\Tutorial.C4E501D1.Up2Date
+C:\Users\lyigi\source\repos\TutorialProject\TutorialProject\obj\Debug\net8.0\TutorialProject.sourcelink.json
